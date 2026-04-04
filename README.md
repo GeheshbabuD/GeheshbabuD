@@ -1,6 +1,6 @@
 # Hi, I'm Gehesh 👋
 
-💻 Computer Science Student | Full Stack Developer | AI & IoT Enthusiast  
+🚀 Passionate about building scalable backend systems and real-time AI-driven applications
 
 ## 🚀 Skills
 - 💻 MERN Stack (MongoDB, Express, React, Node.js)
@@ -9,9 +9,9 @@
 - 🧠 Data Structures & Algorithms
 
 ## 🔥 Projects
-- 🌍 AR-Based Real-Time Language Translator (Arlingua)
-- 🩺 IoT Fall Detection System
-- 💬 Full Stack Chat Application (MERN)
+- 🌍 AR-Based Real-Time Language Translator (Arlingua) - https://github.com/GeheshbabuD/ARLingua
+- 🩺 IoT Fall Detection System - https://github.com/GeheshbabuD/FallDetectionApp
+- 💬 Full Stack Chat Application (MERN) - https://github.com/senthilVyTCDC/MERNIntern
 
 ## 📊 Achievements
 - 🏆 WCHL Hackathon – Regional Round
