@@ -1,12 +1,13 @@
-# Hi, I'm Gehesh 👋 , fan of Mahesh Babu
+# Hi, I'm Gehesh 👋 ,
 
 🚀 Passionate about building scalable backend systems and real-time AI-driven applications
-
+dream : acting
 ## 🚀 Skills
-• MERN Stack (MongoDB, Express, React, Node.js)  
-• AI/ML (NLP, Speech-to-Text)  
-• IoT (ESP32, Sensor Data Processing)  
-• Data Structures & Algorithms  
+
+• eating 
+• sleeping  
+• watching tv  
+• anime watcher 
 
 ## 🔥 Projects
 - 🌍 AR-Based Real-Time Language Translator (Arlingua) - https://github.com/GeheshbabuD/ARLingua
