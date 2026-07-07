@@ -1,4 +1,4 @@
-# Hi, I'm Gehesh 👋
+# Hi, I'm Gehesh 👋 , fan of Mahesh Babu
 
 🚀 Passionate about building scalable backend systems and real-time AI-driven applications
 
